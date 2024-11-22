@@ -72,7 +72,11 @@ Los insights provenientes del análisis exploratorio de los datos se vuelcan a d
 
 Estos objetivos son considerando la tendencia hasta el segundo trimestre del año 2024. Los próximo deben ser ajustados conforme van evolucionando los datos.
 
-## Recomendaciones
+## Recomendaciones finales
+
+- `Infraestructura Rural`: Establecer un plan de desarrollo para expandir la banda ancha en regiones con baja penetración.
+- `Fibra Óptica`: Priorizar la migración de tecnología a fibra óptica en ciudades principales para mejorar significativamente las velocidades de internet.
+- `Segmento VIP`: Crear paquetes de servicios exclusivos para clientes que requieren y pueden costear velocidades de internet más altas, mejorando así la rentabilidad del sector y generando fidelización del cliente.
 
 
 
