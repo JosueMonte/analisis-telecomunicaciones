@@ -1,6 +1,6 @@
 # Analisis en el sector de las telecomunicaciones
 
-Este repositorio contiene un análisis detallado del sector de las telecomunicaciones. Se considera la principal actividad que es brindar accesos a internet, además de visualizar las tecnologías más importantes y su consecuente velocidad. Esto permitirá al clientela posibilidad de tomar decisiones en cuanto a su negocio y encontrar oportunidades de crecimiento.
+Este repositorio contiene un análisis detallado del sector de las telecomunicaciones. Se considera la principal actividad que es brindar accesos a internet, además de visualizar las tecnologías más importantes y su consecuente velocidad. Esto permitirá al cliente gitla posibilidad de tomar decisiones en cuanto a su negocio y encontrar oportunidades de crecimiento.
 
 ## Descripción
 Se desarrollan dos fases para el proyecto:
@@ -68,9 +68,12 @@ Los insights provenientes del análisis exploratorio de los datos se vuelcan a d
 - `Velocidad media de bajada en Mbps`: Se plantea un objetivo para el próximo trimestre de que este valor aumente un 15 % en cada provincia. El análisis plantea que, en la búsqueda de ser un pais desarrollado, la velocidad media de bajada debería rondar los 1000 Mbps.
 - `Ingresos (miles de pesos)`: Se plantea un objetivo para el próximo trimestre de que este valor incremente un 15 % a nivel pais. El análisis busca que los ingresos aumenten respecto a la inflación. Se considera que la inflación para el próximo trimestre rondará el 10-12 %.
 
-## Consideraciones para los KPIs:
+## Consideraciones para los KPIs
 
 Estos objetivos son considerando la tendencia hasta el segundo trimestre del año 2024. Los próximo deben ser ajustados conforme van evolucionando los datos.
+
+## Recomendaciones
+
 
 
 
